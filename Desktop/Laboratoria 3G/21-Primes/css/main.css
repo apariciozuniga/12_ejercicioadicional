@@ -1,0 +1,64 @@
+.bck{
+	background-image: url("../img/background/hero.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-size:110%;
+	margin: 0px;   
+	max-width: 100%;
+	height: 710px;
+	opacity: 0.5 solid black;
+	-webkit-filter: brightness(60%);
+filter: brightness(30%);
+}
+
+
+.text{
+	margin-left: 10%;
+}
+
+
+.list{
+	display: inline-block;
+	list-style: none;
+	color: white;
+	margin-top: 30%;
+	text-decoration: none;
+
+}
+
+
+
+a{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	margin-left:10%;
+	
+
+}
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+.boton1{
+	background-color: #404040;
+	margin-left: 70%;
+	padding: 3%;
+	margin-top:30% ;
+	
+	}
+.boton{
+	background-color: #404040;
+	padding: 3%;
+	opacity: 0.4;
+	margin-left: 20%;
+	margin-top:30% ;
+
+
+}
+.encabezado{
+	margin-left: 15%;
+	margin-top:15%;
+	-webkit-filter: brightness(100%);
+filter: brightness(100%);
+
+}
